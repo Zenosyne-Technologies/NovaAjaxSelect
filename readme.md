@@ -1,7 +1,7 @@
 # Nova Ajax Select
 
-[![Latest Version on Github](https://img.shields.io/github/release/zenosyne/nova-ajax-select.svg?style=flat-square)](https://packagist.org/packages/zenosyne/nova-ajax-select)
-[![Total Downloads](https://img.shields.io/packagist/dt/zenosyne/nova-ajax-select.svg?style=flat-square)](https://packagist.org/packages/zenosyne/nova-ajax-select)
+[![Latest Version on Github](https://img.shields.io/github/release/Zenosyne-Technologies/NovaAjaxSelect.svg?style=flat-square)](https://packagist.org/packages/zenosyne/nova-ajax-select)
+[![Total Downloads](https://img.shields.io/packagist/dt/Zenosyne-Technologies/NovaAjaxSelect.svg?style=flat-square)](https://packagist.org/packages/zenosyne/nova-ajax-select)
 
 Ajax populated select fields based on the values of other fields and when they change.
 
